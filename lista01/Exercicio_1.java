@@ -1,3 +1,5 @@
+/*Autor: Miguel Ribeiro - 4680 */
+
 import java.util.Scanner;
 
 public class Exercicio_1 {
