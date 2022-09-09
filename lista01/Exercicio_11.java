@@ -2,7 +2,6 @@
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
-
 import javax.swing.JOptionPane;
 
 
@@ -13,7 +12,6 @@ public class Exercicio_11 {
             InputStreamReader input = new InputStreamReader(arquivo);
             BufferedReader leitorBuffer = new BufferedReader(input);
             String linha;
-            //matriz de string
             String[][] pacientes = new String[30][5];
             int numero = 0;
 
