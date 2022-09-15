@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 public class Exercicio_11 {
     public static void main(String args[]){
         try{
-            FileInputStream arquivo = new FileInputStream("lista01/Exercicio_11/pacientes.txt" );
+            FileInputStream arquivo = new FileInputStream("Exercicio_11/pacientes.txt" );
             InputStreamReader input = new InputStreamReader(arquivo);
             BufferedReader leitorBuffer = new BufferedReader(input);
             String linha;

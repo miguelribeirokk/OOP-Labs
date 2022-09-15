@@ -6,7 +6,7 @@ public class Exercicio_8{
         List <Integer> vetor = new ArrayList<Integer>();
         Scanner input = new Scanner(System.in);
         while (true) {
-            System.out.print("Digite um número: ");
+            System.out.print("Digite um número: (fim para parar) ");
             String numero = input.nextLine();
             if (numero.equals("fim")) {
                 break;

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Exercicio_9{
     public static void main(String args[]) {
         System.out.println("Opções:\nMULTIPLICA A POR B\nDIVIDE A POR B\nSOMA A E B\nSUBTRAI A DE B\n");
-        System.out.print("Digite uma operação: ");
+        System.out.print("Digite uma operação: (apenas letras maiúsculas) ");
         Scanner input = new Scanner(System.in);
         String operacao = input.nextLine();
         String[] operacaoSeparada = operacao.split(" ");

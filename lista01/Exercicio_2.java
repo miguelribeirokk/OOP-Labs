@@ -1,7 +1,8 @@
 import java.util.Scanner;
+
+
 public class Exercicio_2 {
     public static void main(String[] args) {
-        //racional para real
         System.out.println("Racional para real:");
         System.out.println("Numerador: ");
         Scanner input = new Scanner(System.in);
