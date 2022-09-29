@@ -1,0 +1,10 @@
+Nome: José
+Data de Nascimento: 23/12/1980
+Tipo de Contrato: Horista
+Salário por hora: 20.0
+Numero de Filhos: 4
+Data de Admissão: 09/12/2010
+Salário Bruto: 3600,00
+Desconto INSS: 396,00
+Desconto IR: 185,20
+Salário Líquido: 3018,80
