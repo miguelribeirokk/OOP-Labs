@@ -1,3 +1,4 @@
+
 import java.sql.Date;
 
 public class Funcionario {
@@ -79,7 +80,5 @@ public class Funcionario {
             System.out.println("Data deve ser no formato yyyy-mm-dd");
         }
     }
-
-
 }
     

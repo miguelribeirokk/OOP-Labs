@@ -1,5 +1,4 @@
 
-
 public class Pagamento {
 
     Funcionario funcionario;
