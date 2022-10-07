@@ -1,3 +1,5 @@
+package maquina_refri.src;
+
 public class Refrigerante {
     private Nome_Refri nome;
     private int id;
@@ -14,7 +16,6 @@ public class Refrigerante {
     }
     
     //Getters and Setters
-
     public Nome_Refri getNome() {
         return nome;
     }
@@ -31,7 +32,7 @@ public class Refrigerante {
         this.volume = volume;
     }
 
-    public String getMarca() {
+     public String getMarca() {
         return marca;
     }
 
@@ -46,5 +47,6 @@ public class Refrigerante {
     public void setId(int id) {
         this.id = id;
     }
+ 
 
 }

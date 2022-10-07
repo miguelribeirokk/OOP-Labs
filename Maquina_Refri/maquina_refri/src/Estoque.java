@@ -1,3 +1,5 @@
+package maquina_refri.src;
+
 public class Estoque {
     private Refrigerante refrigerante;
     private int quantidade;
