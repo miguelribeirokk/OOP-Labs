@@ -1,4 +1,4 @@
-package maquina_refri.src;
+package Maquina_Refri.maquina_refri.src;
 
 public class Refrigerante {
     private Nome_Refri nome;

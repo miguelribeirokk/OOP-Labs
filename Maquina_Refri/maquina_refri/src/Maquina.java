@@ -1,4 +1,4 @@
-package maquina_refri.src;
+package Maquina_Refri.maquina_refri.src;
 
 import java.util.Scanner;
 

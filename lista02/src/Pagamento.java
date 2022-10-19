@@ -1,3 +1,5 @@
+package lista02.src;
+
 
 public class Pagamento {
 
