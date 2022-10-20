@@ -1,5 +1,5 @@
+//package
 package ex02;
-
 public class Bicicleta extends Veiculo{
 
     private String tipoCorrente;

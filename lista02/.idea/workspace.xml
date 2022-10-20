@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b70d0d0-7423-40a6-9049-09db17b0d15b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/4680_lista01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/4680_lista01.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas-POO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/bin/Estoque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/bin/Maquina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/bin/Nome_Refri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/bin/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/bin/Refrigerante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/src/Estoque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/src/Maquina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/src/Nome_Refri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/src/Pr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maquina_Refri/maquina_refri/src/Refrigerante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_11/Exercicio_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_11/Exercicio_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_11/pacientes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_11/pacientes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/Exercicio_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/4680-lista01/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/4680-lista01/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/bin/pacientes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/bin/pacientes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/bin/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/bin/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista01/lista01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lista01/lista01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pagamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pagamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Pagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/bin/ex01/Calc_Cientifica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/bin/ex01/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/bin/ex01/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/bin/ex02/Automovel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/bin/ex02/Bicicleta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/bin/ex02/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/bin/ex02/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/src/ex01/Calc_Cientifica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista03/src/ex01/Calc_Cientifica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/src/ex01/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista03/src/ex01/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/src/ex01/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista03/src/ex01/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/src/ex02/Automovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista03/src/ex02/Automovel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/src/ex02/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista03/src/ex02/Bicicleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/src/ex02/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista03/src/ex02/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lista03/src/ex02/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lista03/src/ex02/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/.idea/libraries/4680_lista01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/Listas-POO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/Maquina_Refri/maquina_refri/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/Maquina_Refri/maquina_refri/src/Estoque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/Maquina_Refri/maquina_refri/src/Maquina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/Maquina_Refri/maquina_refri/src/Nome_Refri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/Maquina_Refri/maquina_refri/src/Pr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/Maquina_Refri/maquina_refri/src/Refrigerante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/lista02/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/lista02/bin/makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/lista02/bin/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/lista02/src/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/lista02/src/Pagamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/lista02/src/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/lista02/src/makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Listas-POO/lista02/src/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_11/pacientes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/Exercicio_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/lista01/readme.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GPF1zIPDPLVXUKiXl6IvngRir0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miguel\Documents\Matérias UFV\4º PERÍODO\POO\Listas-POO\Listas-POO\lista02\src\project-pagamento" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b70d0d0-7423-40a6-9049-09db17b0d15b" name="Changes" comment="" />
+      <created>1666282106852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666282106852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
