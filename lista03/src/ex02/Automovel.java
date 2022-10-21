@@ -36,9 +36,6 @@ public class Automovel extends Veiculo{
             System.out.println("Data de revisao invalida");
         }
 
-        
-
-            
         this.tipoBateria = tipoBateria;
         this.tipoMotor = tipoMotor;
     }
