@@ -1,6 +1,10 @@
 //package
 package ex02;
 public class Bicicleta extends Veiculo{
+    /*
+    * This class is used to create a bike object
+    * This class extends the Veiculo class
+     */
 
     private String tipoCorrente;
     private String tipoGuidao;

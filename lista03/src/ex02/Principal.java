@@ -2,12 +2,13 @@
 package ex02;
 
 public class Principal {
-
-    
+    /*
+     * This class is used to test the classes
+     */
 
     public static void main(String[] args) {
 
-        //Instanciando alguns objetos da classe Bicicleta
+        //Instantiate the objects of type Bicicleta
         Bicicleta[] listaBicicletas = new Bicicleta[5];
         listaBicicletas[0] = new Bicicleta("Azul", "Modelo 1", "Marca 1", 2010, "Corrente 1", "Guidão 1");
         listaBicicletas[1] = new Bicicleta("Vermelha", "Modelo 2", "Marca 2", 2011, "Corrente 2", "Guidão 2");
@@ -15,7 +16,7 @@ public class Principal {
         listaBicicletas[3] = new Bicicleta("Amarela", "Modelo 4", "Marca 4", 2013, "Corrente 4", "Guidão 4");
         listaBicicletas[4] = new Bicicleta("Roxa", "Modelo 5", "Marca 5", 2014, "Corrente 5", "Guidão 5");
 
-        //Imprimindo os objetos da classe Bicicleta 
+        //Print the objects
         for (int i = 0; i < listaBicicletas.length; i++) {
             System.out.println("___________________________________________________________________________");
             System.out.println("Bicicleta " + (i + 1));
@@ -31,8 +32,7 @@ public class Principal {
         System.out.println("\n################################\n");
 
 
-        //Instanciando alguns objetos da classe Automovel
-
+        //Instantiate the objects  of type Automovel
         Automovel[] listaAutomoveis = new Automovel[5];
         listaAutomoveis[0] = new Automovel(4, "Azul", "Modelo 1", "Marca 1", 2010,
                 "2023-01-01", "2023-01-02", "2023-01-03", "Bateria 1", "Motor 1");
@@ -51,7 +51,7 @@ public class Principal {
                 "2023-05-10", "2023-05-11", "2023-11-04", "Bateria 5", "Motor 5");
 
 
-        //Imprimindo os objetos da classe Automovel
+        //Print the objects
 
         for (int i = 0; i < listaAutomoveis.length; i++) {
             System.out.println("___________________________________________________________________________");
@@ -69,11 +69,11 @@ public class Principal {
         }
 
 
-        //Aumentando a velocidade dos objetos da classe Bicicleta
+        //Increase the acceleration of the objects of type Bicicleta
 
         for (Bicicleta listaBicicleta : listaBicicletas) listaBicicleta.acelerar((int) (Math.random() * 100 + 1));
 
-        //Velocidade atual das Bicicletas
+        //Print the actual velocity of the objects of type Bicicleta
 
         System.out.println("____________________________________________");
 
@@ -82,16 +82,16 @@ public class Principal {
 
         System.out.println("____________________________________________");
 
-        //Parando totalmente as Bicicletas
+        //Stop the objects of type Bicicleta
 
         for (Bicicleta listaBicicleta : listaBicicletas) listaBicicleta.parar();
 
 
-        //Aumentando a velocidade dos objetos da classe Automovel
+        //Accelerate the objects of type Automovel
 
         for (Automovel listaAutomovel : listaAutomoveis) listaAutomovel.acelerar((int) (Math.random() * 100 + 1));
 
-        //Velocidade atual dos Automoveis
+        //Printing the actual speed of the objects of type Automovel
 
         System.out.println("____________________________________________");
 
@@ -100,7 +100,7 @@ public class Principal {
 
         System.out.println("____________________________________________");
 
-        //Parando totalmente os Automoveis
+        //Stop the objects of type Automovel
 
         for (Automovel listaAutomovel : listaAutomoveis) listaAutomovel.parar();
     }

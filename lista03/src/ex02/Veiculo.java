@@ -19,10 +19,17 @@ public class Veiculo {
 
     //Functions
     public void acelerar(double velocidade) {
+        /*
+        * This method is used to accelerate the vehicle
+         */
+
         this.velocidadeAtual += velocidade;
     }
 
     public void parar() {
+        /*
+        * This method is used to stop the vehicle
+         */
         this.velocidadeAtual = 0;
     }
 

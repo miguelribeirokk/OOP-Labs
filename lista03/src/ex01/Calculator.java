@@ -3,23 +3,39 @@ package ex01;
 
 public class Calculator {
 
-    public double soma(double numero1, double numero2) {
-        return numero1 + numero2;
+    /*
+    * This class is used to calculate the sum , subtraction, multiplication and division of two numbers
+     */
+
+    public double sum(double number1, double number2) {
+        /*
+        * This method is used to calculate the sum of two numbers
+         */
+        return number1 + number2;
     }
 
-    public double subtracao(double numero1, double numero2) {
-        return numero1 - numero2;
+    public double sub(double number1, double number2) {
+        /*
+        * This method is used to calculate the subtraction of two numbers
+         */
+        return number1 - number2;
     }
 
-    public double multiplicacao(double numero1, double numero2) {
-        return numero1 * numero2;
+    public double mult(double number1, double number2) {
+        /*
+        * This method is used to calculate the multiplication of two numbers
+         */
+        return number1 * number2;
     }
 
-    public String divisao(double numero1, double numero2) {
-        if (numero2 == 0) {
+    public String div(double number1, double number2) {
+        /*
+        * This method is used to calculate the division of two numbers
+         */
+        if (number2 == 0) {
             return "ERROR";
         } else {
-            return String.valueOf(numero1 / numero2);
+            return String.valueOf(number1 / number2);
         }
         
     }

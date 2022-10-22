@@ -3,12 +3,20 @@ package ex02;
 import java.sql.Date;
 
 public class Automovel extends Veiculo{
+
+    /*
+    * This class is used to create a car object
+    * This class extends the Veiculo class
+     */
+
+    // Attributes
     Date dataTrocaOleo;
     Date dataTrocaPneu;
     Date dataRevisao;
     String tipoBateria;
     String tipoMotor;
 
+    // Constructor
     public Automovel(int numeroRodas, String cor, String modelo, String marca, 
                     int ano, String dataTrocaOleo, String  dataTrocaPneu, String dataRevisao, 
                     String tipoBateria, String tipoMotor) {
@@ -39,7 +47,8 @@ public class Automovel extends Veiculo{
         this.tipoBateria = tipoBateria;
         this.tipoMotor = tipoMotor;
     }
-    //Getters e Setters
+
+    //Getters and Setters
 
     public Date getDataTrocaOleo() {
         return dataTrocaOleo;
