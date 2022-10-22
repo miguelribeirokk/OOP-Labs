@@ -11,6 +11,7 @@ public class Main {
          */
         ArrayList<Form> forms = new ArrayList<>();
 
+
         for (int i = 0; i < 12; i++) {
             if (i < 4) {
                 forms.add(new Square((float) (Math.random() * 10)));
